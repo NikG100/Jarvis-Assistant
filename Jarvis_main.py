@@ -1,7 +1,6 @@
 import subprocess
 import pyautogui
 import sys
-import wolframalpha
 import pyttsx3
 import cv2
 import json
@@ -10,7 +9,6 @@ import datetime
 import wikipedia
 import webbrowser
 import os
-import winshell
 import pyjokes
 import ctypes
 import time
@@ -22,8 +20,6 @@ import cricket
 import weather
 import stock
 import connect
-import Sample_generator
-import Model_Trainer
 from plyer import notification
 from twilio.rest import Client
 from clint.textui import progress
