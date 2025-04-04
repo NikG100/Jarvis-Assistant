@@ -4,7 +4,7 @@ Jarvis Assistant is an intelligent desktop voice assistant built to handle a var
 
 ## Demo
 
-![Screenshot](./Thumbnail.png)
+![Screenshot](./Jarvis.gif)
 
 ## ✨ Features
 
